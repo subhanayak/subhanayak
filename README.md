@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subha_nayak
-- 👀 I’m interested in python programming
+- 👀 I’m interested in programming in language like c/c++ & python.
 - 🌱 I’m currently learning data structures, agorithms, machine learning and others
 - 💞️ I’m looking to collaborate on my wind turbine design project
 - 📫 How to reach me @7008848225
